@@ -10,7 +10,7 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   
   show = {
-  :chipmunks => ["Alvin", "Simon", "Theodore"],
+  :chipmunks => ["Alvin", "Simon", "Theodore", "Dave"],
   :third_earthers => ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)", "Snarf"],
   :jetsons => ["George", "Jane", "Judy", "Elroy", "Astro"]
 }
